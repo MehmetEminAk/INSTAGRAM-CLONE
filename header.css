@@ -1,0 +1,60 @@
+
+        #header{
+            width:100%;
+            height:15%;
+            position:fixed;
+            
+        }
+        .sağdaki{
+            margin-left:500px;
+
+        }
+        .ortadaki{
+            margin-left:500px;
+        }
+        .soldaki{
+            margin-left:100px;
+            height:60px;
+        }
+        .aramaInput{
+
+        }
+        .headerIcon{
+            width:40px;
+            height:40px;
+        }
+        .mainIcon{
+            width:140px;
+            height:60px;
+            margin-left:180px;
+            margin-top:50px;
+            
+        }
+        .sagdaOnerilenler{
+            width:30%;
+            margin-left:700px;
+            background-color:blue;
+
+        }
+        .sagdakiOneriler{
+            width:65%;
+            height:900px;
+            background-color:#e1e1e2;
+            margin-left:1068px;
+            position:fixed;
+            
+        }
+        .solSpace{
+            width:20%;
+            height:900px;
+            background-color:#e1e1e2;
+            margin-left:0px;
+            position:fixed;
+        }
+        .postImg{
+                width:500px;
+                height:500px;
+        }
+        .postBox{
+            
+        }

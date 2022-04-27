@@ -1,0 +1,12 @@
+.gorusFormu{
+    float:right;
+    background-color: #13dc7b;
+    border-radius: 5px;
+    border: 4px solid rgb(130, 128, 128);
+}
+
+.gorusBox{
+    float:right;
+    width:100px;
+    height:100px;
+}

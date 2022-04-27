@@ -1,0 +1,3 @@
+İletişim kısmı bir icon olsun üstüne
+ tıklanınca bir div açsın.Ve öylelikle iletişime geçil
+sin.
