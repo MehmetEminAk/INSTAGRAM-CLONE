@@ -12,6 +12,7 @@
     <title>Login</title>
 </head>
 <body>
+    <p>Bu bir denemedir.</p>
     <?php
     
     if($_GET["giris"] && isset($_POST["loginmail"])==1 && isset($_POST["loginsifre"])==1){
